@@ -1,13 +1,5 @@
-//
-//  store_and_fetch.c
-//  library system
-//
-//  Created by headreaper on 2019/2/3.
-//  Copyright © 2019 headreaper. All rights reserved.
-//
 
-#include "store_and_fetch.h"
-#include "admin_and_stu(chain_1.2.h"
+#include "admin_and_stu(2.0).h"
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
