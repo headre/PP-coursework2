@@ -10,7 +10,6 @@
 #include <string.h>
 #include <stdlib.h>
 #include "admin_and_stu.h"
-#include "admin_and_stu(chain_1.2.h"
 void PrintHead();
 int TranslateChoice(int choice);
 void AdminOp();
